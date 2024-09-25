@@ -1,0 +1,20 @@
+.editable {
+    background-color: #f0f8ff; /* Light blue background */
+    border: 1px solid #007bff; /* Blue border */
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
